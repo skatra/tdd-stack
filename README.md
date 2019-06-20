@@ -20,4 +20,6 @@ Refactor the Stack and JUNit tests to make the Stack generic so that I can have 
 ## What is a stack?
 Check out this article that describes a stack: [here](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
 
-
+## Contact Info
+steve.katra@gmail.com
+www.stevekatra.com 
